@@ -1,0 +1,25 @@
+{
+  "name": "Node.js-MySQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krekorian/Node.js-MySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "await": "^0.2.6",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  },
+  "bugs": {
+    "url": "https://github.com/krekorian/Node.js-MySQL/issues"
+  },
+  "homepage": "https://github.com/krekorian/Node.js-MySQL#readme"
+}
