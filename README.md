@@ -12,4 +12,6 @@
 
 ## System then will ask if the user wants to continue of wants to quit.
 
-![](pictures/1.jpg)
+<img src="./pictures/1.jpg">
+
+###Pictures
