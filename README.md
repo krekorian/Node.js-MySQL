@@ -12,6 +12,17 @@
 
 ## System then will ask if the user wants to continue of wants to quit.
 
-<img src="./pictures/1.jpg">
-
 ###Pictures
+
+<img src="pictures/1.JPG">
+<img src="pictures/2.JPG">
+<img src="pictures/3.JPG">
+<img src="pictures/4.JPG">
+<img src="pictures/5.JPG">
+<img src="pictures/6.JPG">
+<img src="pictures/m1.JPG">
+<img src="pictures/m2.JPG">
+<img src="pictures/m3.JPG">
+
+
+
