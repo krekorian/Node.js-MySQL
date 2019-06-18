@@ -4,6 +4,7 @@ var await = require('await');
 var purchaseList = [];
 var checkout = false;
 var Item = require("./list.js");
+var options = require('./options');
 
 var connection = mysql.createConnection({
     host: "localhost",
@@ -15,7 +16,7 @@ var connection = mysql.createConnection({
     user: "root",
 
     // Your password
-    password: "Ucla1234",
+    password: options.storageConfig,
     database: "bamazon"
 });
 
@@ -82,9 +83,10 @@ function runSearch() {
                 } else {
 
                     var quant = getQuantity(answer.id);
+                    // console.log("quant" + quant);
                     quant.then(function (result) {
                         // console.log("answer.id=" + answer.id);
-                        console.log("result" + result)
+                        // console.log("result" + result)
                         checkQuantity(answer.id, result)
                     })
 
