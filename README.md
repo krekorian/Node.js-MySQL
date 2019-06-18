@@ -11,3 +11,5 @@
 ## System will display the final list of all items, item unit price, quantity purchased, item total price, and total amount.
 
 ## System then will ask if the user wants to continue of wants to quit.
+
+[![BAMAZON Customer](https://drive.google.com/file/d/15sAV5PRj-RUIZond1RhL0hrKTSi6h08l/view)]
