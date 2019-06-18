@@ -12,4 +12,4 @@
 
 ## System then will ask if the user wants to continue of wants to quit.
 
-[![BAMAZON Customer](https://drive.google.com/file/d/15sAV5PRj-RUIZond1RhL0hrKTSi6h08l/view)]
+![](pictures/1.jpg)
