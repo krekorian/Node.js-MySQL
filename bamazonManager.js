@@ -1,6 +1,8 @@
 var mysql = require("mysql");
 var inquirer = require("inquirer");
 var Item = require("./list.js");
+var options = require('./options');
+console.log(options.storageConfig);
 
 var connection = mysql.createConnection({
     host: "localhost",
@@ -12,7 +14,7 @@ var connection = mysql.createConnection({
     user: "root",
 
     // Your password
-    password: "Ucla1234",
+    password: options.storageConfig,
     database: "bamazon"
 });
 
